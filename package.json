@@ -1,0 +1,23 @@
+{
+  "name": "CRUD",
+  "version": "1.0.0",
+  "description": "node express mongolab angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "handlebars",
+    "mongolab"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "latest",
+    "body-parser": "^1.14.2",
+    "chalk": "^1.1.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1"
+  }
+}
